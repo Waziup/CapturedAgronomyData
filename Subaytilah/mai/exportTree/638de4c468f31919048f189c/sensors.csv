@@ -1,0 +1,4 @@
+63932c8868f319085df375bf,Soil_tension,2022-12-09T13:39:36+01:00,2022-12-09T13:45:44+01:00,"{""createdBy"":""codec:xlpp"",""kind"":""SoilHumiditySensor"",""quantity"":""SoilMoistureTension"",""unit"":""KiloPascal"",""xlppChan"":0}",,
+63932c8868f319085df375c1,Resistance,2022-12-09T13:39:36+01:00,2022-12-09T13:46:02+01:00,"{""createdBy"":""codec:xlpp"",""quantity"":""Temperature"",""unit"":""DegreeCelsius"",""xlppChan"":1}",,
+63932c8868f319085df375c3,Soil_temperature,2022-12-09T13:39:36+01:00,2022-12-09T13:46:28+01:00,"{""createdBy"":""codec:xlpp"",""kind"":""SoilThermometer"",""quantity"":""SoilTemperature"",""unit"":""DegreeCelsius"",""xlppChan"":5}",,
+63932c8868f319085df375c7,Battery_voltage,2022-12-09T13:39:36+01:00,2022-12-09T13:49:58+01:00,"{""createdBy"":""codec:xlpp"",""kind"":""BoardVoltageSensor"",""quantity"":""Voltage"",""unit"":""Volt"",""xlppChan"":6}",,
